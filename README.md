@@ -1,4 +1,4 @@
-# Blueshift Azure Migration Project
+# Blueshift Azure Migration Project App
 
 ## Overview
 This project is a web application built with ASP.NET Core MVC (.NET 8.0) that simulates a real-world Azure migration scenario. It demonstrates the process of migrating a website from an on-premises environment (IIS) to Azure App Service, following best practices for cloud migration.
